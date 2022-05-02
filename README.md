@@ -4,13 +4,13 @@
 
 ## Play
 
-https://www.retrogames.cz/
+https://www.retrogames.cz
 
-https://www.retrogames.cc/
+https://www.retrogames.cc
 
-https://myemulator.online/
+https://myemulator.online
 
-https://emulatorgames.online/
+https://emulatorgames.online
 
 ## Must see
 
