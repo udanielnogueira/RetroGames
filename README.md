@@ -2,7 +2,7 @@
 
 🎮 Links to find and play awesome retro games.
 
-## Sites
+## Play
 
 https://www.retrogames.cz/
 
@@ -12,6 +12,6 @@ https://myemulator.online/
 
 https://emulatorgames.online/
 
-## Good games
+## Must see
 
 https://shortlist.com/lists/best-retro-games-400221
